@@ -75,26 +75,26 @@
   height: 220px;
 }
 .imgs__row:nth-child(1) li:nth-child(1) {
-  background-image: url("file:///Users/mayo/Desktop/mayonex-htmlcss-master/img/likes-1.jpg");
+  background-image: url("../../img/likes-1.jpg");
   animation-delay: 0.2s;
 }
 .imgs__row:nth-child(1) li:nth-child(2) {
-  background-image: url("file:///Users/mayo/Desktop/mayonex-htmlcss-master/img/likes-2.jpg");
+  background-image: url("../../img/likes-2.jpg");
   animation-delay: 0.3s;
 }
 .imgs__row:nth-child(2) li:nth-child(1) {
-  background-image: url("file:///Users/mayo/Desktop/mayonex-htmlcss-master/img/likes-3.jpg");
+  background-image: url("../../img/likes-3.jpg");
   animation-delay: 0.4s;
 }
 .imgs__row:nth-child(2) li:nth-child(2) {
-  background-image: url("file:///Users/mayo/Desktop/mayonex-htmlcss-master/img/likes-4.jpg");
+  background-image: url("../../img/likes-4.jpg");
   animation-delay: 0.2s;
 }
 .imgs__row:nth-child(3) li:nth-child(1) {
-  background-image: url("file:///Users/mayo/Desktop/mayonex-htmlcss-master/img/issue-3.jpg");
+  background-image: url("../../img/issue-3.jpg");
   animation-delay: 0.3s;
 }
 .imgs__row:nth-child(3) li:nth-child(2) {
-  background-image: url("file:///Users/mayo/Desktop/mayonex-htmlcss-master/img/issue-4.jpg");
+  background-image: url("../../img/issue-4.jpg");
   animation-delay: 0.4s;
 }
