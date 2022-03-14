@@ -15,7 +15,7 @@
   animation-timing-function: cubic-bezier(0.19, 1, 0.22, 1);
 }
 .modal__img {
-  background-image: url("/Users/mayo/Desktop/mayonex-htmlcss-master/moonsun_htmlcss-master/img/moonsun2.jpeg");
+  background-image: url("file:///Users/mayo/Desktop/mayonex-htmlcss-master/img/moonsun2.jpeg");
   height: 280px;
 }
 .modal .img {

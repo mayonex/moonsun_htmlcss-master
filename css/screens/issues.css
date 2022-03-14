@@ -1,6 +1,6 @@
 .feature {
   height: 330px;
-  background-image: url("file:///Users/mayo/Desktop/mayonex-htmlcss-master/moonsun_htmlcss-master/img/issue-1.jpg");
+  background-image: url("file:///Users/mayo/Desktop/mayonex-htmlcss-master/img/issue-1.jpg");
   position: relative;
   margin: 0px -24px;
 }
@@ -54,18 +54,18 @@
   width: 33%;
 }
 .img--sm:first-child {
-  background-image: url("file:///Users/mayo/Desktop/mayonex-htmlcss-master/moonsun_htmlcss-master/img/issue-2.jpg");
+  background-image: url("file:///Users/mayo/Desktop/mayonex-htmlcss-master/img/issue-2.jpg");
 }
 .img--sm:nth-child(2) {
-  background-image: url("file:///Users/mayo/Desktop/mayonex-htmlcss-master/moonsun_htmlcss-master/img/issue-3.jpg");
+  background-image: url("file:///Users/mayo/Desktop/mayonex-htmlcss-master/img/issue-3.jpg");
   animation-delay: 0.12s;
 }
 .img--sm:nth-child(3) {
-  background-image: url("file:///Users/mayo/Desktop/mayonex-htmlcss-master/moonsun_htmlcss-master/img/issue-4.jpg");
+  background-image: url("file:///Users/mayo/Desktop/mayonex-htmlcss-master/img/issue-4.jpg");
   animation-delay: 0.24s;
 }
 .img--sm:last-child {
-  background-image: url("file:///Users/mayo/Desktop/mayonex-htmlcss-master/moonsun_htmlcss-master/img/likes-4.jpg");
+  background-image: url("file:///Users/mayo/Desktop/mayonex-htmlcss-master/img/likes-4.jpg");
   animation-delay: 0.33s;
 
   margin-right: 0px;
